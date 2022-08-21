@@ -59,3 +59,5 @@ If anyone out there in the community knows how to use GPU's in laptop/computers 
 * Currently using a Laptop GPU (GTX 1650 TI) 
 
 ### If any more info required please comment it out
+* [Linkedin](https://www.linkedin.com/in/siddharth-d-816074217/)
+* [Instagram](https://www.instagram.com/siddhu252004/)
